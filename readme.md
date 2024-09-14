@@ -2,4 +2,4 @@
 
 DQL + Neural Network Visualization
 
-![Proje Demo](reinforcment.gif)
+![Proje Demo](reinforcement.gif)
