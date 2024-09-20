@@ -11,3 +11,7 @@ YAKAMOZ UAV TEAM Ground Control Station
 Tracking Car Using MOSSE
 
 ![Proje Demo](tracking.gif)
+
+Gyroscope for Yakamoz UAV Team' Ground Control Center
+
+![Proje Demo](gyroscope_angle.gif)
