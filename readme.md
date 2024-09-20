@@ -15,3 +15,8 @@ Tracking Car Using MOSSE
 Gyroscope for Yakamoz UAV Team' Ground Control Center
 
 ![Proje Demo](gyroscope_angle.gif)
+
+Image Collection, Classification and Augmentation
+
+![Proje Demo](data.gif)
+
