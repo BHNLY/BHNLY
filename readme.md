@@ -2,7 +2,7 @@
 
 Image Collection, Classification and Augmentation
 
-![Proje Demo](data.gif)
+![Proje Demo](data.jpg)
 
 DQL + Neural Network Visualization
 
