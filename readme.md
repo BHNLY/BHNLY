@@ -1,5 +1,9 @@
 ## My Projects
 
+Image Collection, Classification and Augmentation
+
+![Proje Demo](data.gif)
+
 DQL + Neural Network Visualization
 
 ![Proje Demo](reinforcement.gif)
@@ -19,4 +23,3 @@ Gyroscope for Yakamoz UAV Team' Ground Control Center
 Image Collection, Classification and Augmentation
 
 ![Proje Demo](data.gif)
-
