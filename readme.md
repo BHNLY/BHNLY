@@ -7,3 +7,7 @@ DQL + Neural Network Visualization
 YAKAMOZ UAV TEAM Ground Control Station
 
 ![Proje Demo](YKI.gif)
+
+Tracking Car Using MOSSE
+
+![Proje Demo](tracking.gif)
